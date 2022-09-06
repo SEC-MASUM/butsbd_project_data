@@ -15,7 +15,7 @@
       "Manage Purchases",
       "Return Purchases Items to Supplier",
       "Supplier Payment",
-      "Automatically Create Customer and Supplier Ledgerâ€™s to Track Their Receivables and Payables",
+      "Automatically Create Customer and Supplier Ledger’s to Track Their Receivables and Payables",
       "Track and Create Daily, Monthly Expenses",
       "Complete Stock Management (In Stock & Out of Stock)",
       "Integrated Complete Accounting Solution (General Ledger, Trial Balance, Balance Sheet, Income Statement)",
@@ -29,10 +29,30 @@
     "thumbnail": "http://via.placeholder.com/640x360",
     "technologies": [
       {
+        "name": "ASP.NET",
+        "icon": ""
+      },
+      {
+        "name": ".NET Core",
+        "icon": ""
+      },
+      {
+        "name": "SQL Server",
+        "icon": ""
+      },
+      {
+        "name": "Material UI",
+        "icon": ""
+      },
+      {
+        "name": "Angular",
+        "icon": ""
+      },
+      {
         "name": "React",
         "icon": ""
-      }
-      ,{
+      },
+      {
         "name": "Tailwind CSS",
         "icon": ""
       }
