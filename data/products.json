@@ -3,7 +3,13 @@
     "id": 1,
     "title": "Pharmacy POS",
     "description": "An Advanced, Powerful and Flexible POS Software with Complete Accounts Solution for Pharmacy",
-    "keyFeatures":["Sales","Purchase","Inventory","Accounts","MIS"],
+    "keyFeatures": [
+      "Sales",
+      "Purchase",
+      "Inventory",
+      "Accounts",
+      "MIS"
+    ],
     "features": [
       "Manage Multiple Branch in a Single System",
       "Instant Branch to Branch Stock Transfer",
@@ -26,6 +32,38 @@
       "Damage and Loss Adjustment",
       "Stock Adjustment",
       "Track Expired Products"
+    ],
+    "keyFeaturesDetails": [
+      {
+        "id": 1,
+        "title": "Sales",
+        "body": "Diamond’s Planning helps institutions establish and execute a sustainable Strategic Planning process that mirrors your institutional complexity and unique mission. With built-in tools for documenting improvement plans, making resource requests, viewing activities, and managing workflows, Diamond’s Planning brings your strategic plan to life while reducing your administrative burden.",
+        "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Sales.PNG"
+      },
+      {
+        "id": 2,
+        "title": "Purchase",
+        "body": "Diamond’s Budget streamlines the financial planning process. Empower your budget planners with easy-to-use tools that integrate operational budget planning with resource requests tied directly to strategic planning initiatives. Track all resource requests account by account and give decision makers an environment to deliberate and allocate funds.",
+        "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Purchase.PNG"
+      },
+      {
+        "id": 3,
+        "title": "Inventory",
+        "body": "Diamond’s Assessment creates an intuitive framework supporting ongoing assessment, including Program Review, that is visible, accountable, and anchored in data with actionable insights at all levels. Your team is better positioned to fulfill your institution’s mission and achieve transformational outcomes with SPOL Diamond.",
+        "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Inventory.PNG"
+      },
+      {
+        "id": 4,
+        "title": "Accounts",
+        "body": "Diamond’s Credentialing creates a centralized document repository that facilitates faculty credential collection, verification, and management across multiple colleges, departments, and programs using customizable Workflow that mirrors your approval processes and reduces administrative burden to streamline faculty credential management and accreditation.",
+        "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Accounts.PNG"
+      },
+      {
+        "id": 5,
+        "title": "MIS",
+        "body": "Diamond’s Accreditation helps your institution consistently exceed regional and programmatic accreditation expectations with our fully customizable SPOL Diamond platform to reflect your institution’s unique mission. Diamond helps free up the clerical and administrative burden of organizing data and focus on the quality submission to your accrediting body!",
+        "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/MIS.PNG"
+      }
     ],
     "thumbnail": "https://www.productplan.com/uploads/2019/12/software-development-lifecycle-1.png",
     "technologies": [
