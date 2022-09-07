@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Pharmacy POS",
     "description": "An Advanced, Powerful and Flexible POS Software with Complete Accounts Solution for Pharmacy",
+    "key-feature":["Sales","Purchase","Inventory","Accounts","MIS"],
     "feature": [
       "Manage Multiple Branch in a Single System",
       "Instant Branch to Branch Stock Transfer",
@@ -30,27 +31,27 @@
     "technologies": [
       {
         "name": "ASP.NET",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"
       },
       {
         "name": ".NET Core",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
       },
       {
         "name": "SQL Server",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
       },
       {
         "name": "Material UI",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
       },
       {
         "name": "Angular",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
       },
       {
         "name": "React",
-        "icon": ""
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
       }
     ]
   }
