@@ -3,8 +3,8 @@
     "id": 1,
     "title": "Pharmacy POS",
     "description": "An Advanced, Powerful and Flexible POS Software with Complete Accounts Solution for Pharmacy",
-    "key-feature":["Sales","Purchase","Inventory","Accounts","MIS"],
-    "feature": [
+    "key-features":["Sales","Purchase","Inventory","Accounts","MIS"],
+    "features": [
       "Manage Multiple Branch in a Single System",
       "Instant Branch to Branch Stock Transfer",
       "Real Time Dashboard (Daily Sales, Weekly Sales, Monthly Sales)",
