@@ -65,7 +65,7 @@
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/MIS.PNG"
       }
     ],
-    "thumbnail": "https://www.productplan.com/uploads/2019/12/software-development-lifecycle-1.png",
+    "thumbnail": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/POSThumbnail.svg",
     "technologies": [
       {
         "name": "ASP.NET",
