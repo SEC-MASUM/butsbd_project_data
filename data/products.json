@@ -3,13 +3,7 @@
     "id": 1,
     "title": "Pharmacy POS",
     "description": "An Advanced, Powerful and Flexible POS Software with Complete Accounts Solution for Pharmacy",
-    "keyFeatures": [
-      "Sales",
-      "Purchase",
-      "Inventory",
-      "Accounts",
-      "MIS"
-    ],
+    "keyFeatures": ["Sales", "Purchase", "Inventory", "Accounts", "MIS"],
     "features": [
       "Manage Multiple Branch in a Single System",
       "Instant Branch to Branch Stock Transfer",
@@ -37,31 +31,31 @@
       {
         "id": 1,
         "title": "Sales",
-        "body": "Diamond’s Planning helps institutions establish and execute a sustainable Strategic Planning process that mirrors your institutional complexity and unique mission. With built-in tools for documenting improvement plans, making resource requests, viewing activities, and managing workflows, Diamond’s Planning brings your strategic plan to life while reducing your administrative burden.",
+        "body": "Our Pharmacy POS Software Sales Module optimizes sales operations in your pharmacy. It offers a user-friendly interface, efficient product catalog management, real-time inventory tracking, and quick sales processing. Capture customer information, track purchase history, and personalize the shopping experience with integrated CRM functionality. Access comprehensive reports for insights into sales performance and top-selling products. Seamlessly manage sales across multiple locations and integrate with other tools. Our module ensures robust security measures and protects sensitive data. Enjoy the convenience of mobile accessibility, enabling sales management on the go. Enhance sales efficiency, streamline inventory control, and improve customer satisfaction with our powerful Pharmacy POS Software Sales Module.",
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Sales.PNG"
       },
       {
         "id": 2,
         "title": "Purchase",
-        "body": "Diamond’s Budget streamlines the financial planning process. Empower your budget planners with easy-to-use tools that integrate operational budget planning with resource requests tied directly to strategic planning initiatives. Track all resource requests account by account and give decision makers an environment to deliberate and allocate funds.",
+        "body": "The Purchase Module in Pharmacy POS Software streamlines procurement, optimizes inventory management, and enhances supply chain efficiency. Key features include supplier management, purchase orders, inventory integration, purchase returns, financial tracking, and reporting/analytics. It allows for the creation and maintenance of a supplier database, generates error-free purchase orders, synchronizes inventory in real-time, manages purchase returns, tracks financials. These features improve operational efficiency, supply chain visibility, and overall success of the pharmacy business.",
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Purchase.PNG"
       },
       {
         "id": 3,
         "title": "Inventory",
-        "body": "Diamond’s Assessment creates an intuitive framework supporting ongoing assessment, including Program Review, that is visible, accountable, and anchored in data with actionable insights at all levels. Your team is better positioned to fulfill your institution’s mission and achieve transformational outcomes with SPOL Diamond.",
+        "body": "The Inventory Module in POS software simplifies stock management for pharmacies. It includes features such as real-time stock tracking, barcode scanning, batch and expiry tracking, reorder point alerts, stock transfers, and stock analytics. With this module, pharmacies can efficiently track and manage their inventory, reduce errors, prevent stock shortages, and make informed decisions for optimal stock control.",
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Inventory.PNG"
       },
       {
         "id": 4,
         "title": "Accounts",
-        "body": "Diamond’s Credentialing creates a centralized document repository that facilitates faculty credential collection, verification, and management across multiple colleges, departments, and programs using customizable Workflow that mirrors your approval processes and reduces administrative burden to streamline faculty credential management and accreditation.",
+        "body": "The Accounts Module in Pharmacy POS Software streamlines financial management within a pharmacy. It includes features such as chart of accounts, accounts management, subsidiary ledger, balance sheet, trial balance, journal entries, sales invoicing, payment/receipt processing and more. This module enables efficient handling of financial transactions, accurate record-keeping, and informed decision-making for the pharmacy's financial health. It generates comprehensive financial reports, such as profit and loss statements, balance sheets, and cash flow statements, providing insights into the pharmacy's financial performance and supporting informed decision-making.",
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/Accounts.PNG"
       },
       {
         "id": 5,
         "title": "MIS",
-        "body": "Diamond’s Accreditation helps your institution consistently exceed regional and programmatic accreditation expectations with our fully customizable SPOL Diamond platform to reflect your institution’s unique mission. Diamond helps free up the clerical and administrative burden of organizing data and focus on the quality submission to your accrediting body!",
+        "body": "The Management Information System (MIS) is a vital component of Pharmacy POS Software that collects and analyzes data from different modules. It generates reports and metrics, providing valuable insights for effective decision-making. The MIS feature enables pharmacies to gain a comprehensive view of their operations, identify areas for improvement, and make data-driven decisions to enhance efficiency and profitability.",
         "img": "https://raw.githubusercontent.com/SEC-MASUM/butsbd_project_data/main/images/POS/MIS.PNG"
       }
     ],
